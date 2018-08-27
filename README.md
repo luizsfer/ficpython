@@ -34,7 +34,7 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Funções
 - DocStrings
 - Parametrização de função
-- * args, ** kargs
+- \*args, \**kargs
 - Builtin sorted
 - Módulos
 - Importação de módulos
