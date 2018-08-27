@@ -29,3 +29,13 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Texto
 - Operações sobre string
 - Módulo String
+
+## Aula 3
+- Funções
+- DocStrings
+- Parametrização de função
+- * args, ** kargs
+- Builtin sorted
+- Módulos
+- Importação de módulos
+- Variável name
