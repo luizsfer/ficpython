@@ -39,3 +39,17 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Módulos
 - Importação de módulos
 - Variável name
+
+## Aula 4
+- Exceções em Python
+- Instalação de Python 3.7 e Pycharm Community
+
+## Aula 5
+- Arquivos em Python
+- fopen, fclose
+- Operadores de arquivo
+- Arquivos texto
+- Gravando variáveis
+- Diretórios de arquivos
+- Pickling
+- Exceções com arquivos
