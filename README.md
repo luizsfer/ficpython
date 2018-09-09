@@ -53,3 +53,21 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Diretórios de arquivos
 - Pickling
 - Exceções com arquivos
+
+## Aula 6
+- Introdução à banco de dados usando SQLite
+- Instalação e criação de uma nova base de dados
+- Criação e manipulação de tabelas (Comandos "cursor" e "execute")
+- Inserindo dados na tabela
+- Executando o comando "Select"
+- Trabalhando com o comando "Update"
+- Trabalhando com o comando "Delete"
+- Executando alterações em colunas de dados
+- Construindo e recuperando backups da base de dados
+
+## Aula 7
+- Introdução ao framework "TKinter"
+- Configuração de um frontend
+- Interfaces, variáveis e labels
+- Entry, list, scroll e botões
+- Grid e o posicionamento de elementos
