@@ -71,3 +71,7 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Interfaces, variáveis e labels
 - Entry, list, scroll e botões
 - Grid e o posicionamento de elementos
+- Criação de ações para cada elemento do grid
+- Conexão entre elemento e ação
+- Criação da classe principal para execução
+- Criação do arquivo executável independente
