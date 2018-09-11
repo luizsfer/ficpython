@@ -75,3 +75,12 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Conexão entre elemento e ação
 - Criação da classe principal para execução
 - Criação do arquivo executável independente
+
+## Aula 8 
+- Revisão sobre Web
+- Informações sobre a Web em 2018
+- Django framework
+- Comando startproject
+- Comando startapp
+- Estrutura de um projeto Django inicial 
+- Criação de uma view simples
