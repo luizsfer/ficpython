@@ -84,3 +84,12 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Comando startapp
 - Estrutura de um projeto Django inicial 
 - Criação de uma view simples
+
+## Aula 9
+- Revisão de criação de projeto Django
+- MaterializeCSS
+- Revisão de CSS
+- Revisão de HTML + CSS
+- Criação de templates 
+- Criação de template base
+- Criação de view com MaterializeCSS
