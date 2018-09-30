@@ -93,3 +93,31 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Criação de templates 
 - Criação de template base
 - Criação de view com MaterializeCSS
+
+
+## Aula 10
+- Simplificando o projeto
+- Instalando templates 
+- Trabalhado Web com banco de dados
+- Trabalhando com blocos : {% blocks %} e {% endblocks %}
+- Métodos GET e POST
+
+## Aula 11 
+- Contextualizando aplicativos para smartphones em 2018
+- Desenvolvimento para aplicativos
+- Python no mercado de aplicativos
+- Apresentando o Kivy
+- Instalação do Kivy
+- Primeira aplicação em Kivy
+- Botões e campos
+
+## Aula 12
+- Desenvolvimento de aplicações para Kivy
+- Entendendo o arquivo .kv
+- Desenvolvendo uma calculadora
+- Desenvolvendo uma aplicação com acesso a banco de dados
+
+## Aula 13
+- Desenvolvimento de aplicações para Kivy
+- Desenvolvimento de jogos para Kivy
+- O jogo Pong
