@@ -121,3 +121,5 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Desenvolvimento de aplicações para Kivy
 - Desenvolvimento de jogos para Kivy
 - O jogo Pong
+
+Obs.: As aulas 11, 12 e 13 podem ser dividas em 4 dias, uma vez que a complexidade da aplicação pode exigir um tempo de aula um pouco maior.
