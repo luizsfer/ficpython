@@ -102,6 +102,8 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Trabalhando com blocos : {% blocks %} e {% endblocks %}
 - Métodos GET e POST
 
+Obs.: O arquivo empresa.rar contém um checkpoint de nossa aula, afim de que todos tenhamos os mesmos arquivos para o bom andamento das aulas.
+
 ## Aula 11 
 - Contextualizando aplicativos para smartphones em 2018
 - Desenvolvimento para aplicativos
@@ -122,7 +124,7 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Desenvolvimento de jogos para Kivy
 - O jogo Pong
 
-Obs.: As aulas 11, 12 e 13 podem ser dividas em 4 dias, uma vez que a complexidade da aplicação pode exigir um tempo de aula um pouco maior.
+Obs.: As aulas 11, 12 e 13 podem ser dividas em 4 dias, uma vez que a complexidade da aplicação pode exigir um tempo de aula um pouco maior. As aplicações desenvolvidas estão disponíveis no formato .apk para download dentro da pasta da aula correspondente.
 
 ## Aula 14
 
