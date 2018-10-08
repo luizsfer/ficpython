@@ -127,6 +127,10 @@ Obs.: O arquivo empresa.rar contém um checkpoint de nossa aula, afim de que tod
 Obs.: As aulas 11, 12 e 13 podem ser dividas em 4 dias, uma vez que a complexidade da aplicação pode exigir um tempo de aula um pouco maior. As aplicações desenvolvidas estão disponíveis no formato .apk para download dentro da pasta da aula correspondente.
 
 ## Aula 14
+- Apresentação sobre DataScience
+- Estudos de caso sobre uso de dados na resolução de problemas
+- Apresentação de um cenário hipotético de uso de técnicas de DataScience
+- Trabalhando com dados, criação de dicts e funções para encontrar amigos com mesmos interesses
 
 ## Aula 15
 
