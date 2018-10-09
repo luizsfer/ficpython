@@ -139,4 +139,4 @@ Obs.: As aulas 11, 12 e 13 podem ser dividas em 4 dias, uma vez que a complexida
 
 ## Aula 17
 
-### Agradecimento aos participantes, sempre uma horna dividir o pouco que sei com quem está com pessoas tão dedicadas!
+### Agradecimento aos participantes, sempre uma horna dividir o pouco que sei com pessoas tão dedicadas!
