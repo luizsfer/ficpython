@@ -136,7 +136,8 @@ Obs.: As aulas 11, 12 e 13 podem ser dividas em 4 dias, uma vez que a complexida
 - Descobrindo informações interessantes sobre salário e experiência
 
 ## Aula 16
-
-## Aula 17
+- Extrair os dados do Twitter usando tweepy e aprender como lidar com isso usando pandas
+- Traçar algumas estatísticas básicas e visualizações com numpy, matplotlib e seaborn
+- Fazer uma análise de sentimentos de tweets extraídos usando textblob
 
 ### Agradecimento aos participantes, sempre uma horna dividir o pouco que sei com pessoas tão dedicadas!
